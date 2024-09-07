@@ -29,7 +29,10 @@ function ReadUser() {
                         </div>
                     </div>
                 </div>
-                <div className="col-4"></div>
+                <div className="col-4">
+                    {console.log("Prasad")
+                    }
+                </div>
             </div>
         </div>
     )

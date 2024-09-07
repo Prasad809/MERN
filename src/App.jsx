@@ -8,7 +8,6 @@ import ReadUser from './components/ReadUser'
 function App() {
   return (
     <div>
-      <h1>Hi I am Prasad</h1>
       <BrowserRouter>
         <Routes>
           <Route path='/' element={<Users/>}></Route>
